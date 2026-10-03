@@ -17,8 +17,8 @@ A navegação entre as páginas é realizada utilizando o componente `Link` do R
 Exemplo:
 
 ```jsx
-<Link to="/">Home</Link>
-<Link to="/produtos">Produtos</Link>
+<Link to={"/"}>Home</Link>
+<Link to={"/produtos"}>Produtos</Link>
 ```
 
 ## Como executar o projeto
