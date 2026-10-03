@@ -5,6 +5,7 @@ import Header from "../components/Header";
 import Footer from "../components/Footer";
 import PageLayout from "../layouts/PageLayout";
 import NotFound from "../pages/NotFound";
+import Products from "../pages/Products";
 
 const Paths = () => {
   return (
@@ -12,7 +13,7 @@ const Paths = () => {
       <Routes>
         <Route path="/" element={<PageLayout />}>
           <Route index element={<Home />} />
-          <Route path="/produtos" element={<Produto />} />
+          <Route path="/produtos" element={<Products />} />
         </Route>
         <Route path="*" element={<NotFound />} />
       </Routes>

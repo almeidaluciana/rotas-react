@@ -7,7 +7,7 @@ Projeto desenvolvido em sala de aula para apresentar a criação de páginas e n
 | Rota        | Página   |
 | ----------- | -------- |
 | `/`         | Home     |
-| `/products` | Produtos |
+| `/produtos` | Products |
 | `*`         | NotFound |
 
 ## Navegação
