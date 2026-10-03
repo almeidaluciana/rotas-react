@@ -1,8 +1,8 @@
 # Projeto React com Rotas
 
-Projeto desenvolvido na sala de aula para apresentar a criação de páginas e navegação utilizando o **React Router DOM**.
+Projeto desenvolvido em sala de aula para apresentar a criação de páginas e navegação utilizando o **React Router DOM**.
 
-## 🛣️ Rotas
+## Rotas
 
 | Rota        | Página   |
 | ----------- | -------- |
