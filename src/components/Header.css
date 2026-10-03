@@ -1,0 +1,33 @@
+.header {
+  background-color: #222;
+  padding: 15px 30px;
+}
+
+.navbar {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 500;
+
+  transition: color 0.3s;
+}
+
+.menu a:hover {
+  color: #61dafb;
+}
