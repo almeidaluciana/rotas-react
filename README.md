@@ -18,7 +18,7 @@ Exemplo:
 
 ```jsx
 <Link to="/">Home</Link>
-<Link to="/products">Produtos</Link>
+<Link to="/produtos">Produtos</Link>
 ```
 
 ## Como executar o projeto
